@@ -114,7 +114,6 @@ Integration Test:
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Israel CHIZUNGU**
 
 - GitHub: [chiztechnology](https://github.com/chiztechnology)
@@ -136,7 +135,7 @@ Integration Test:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](../issues/).
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
